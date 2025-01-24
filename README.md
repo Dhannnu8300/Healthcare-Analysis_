@@ -5,6 +5,9 @@ Tableau Public : https://public.tableau.com/views/HealthcareAnalysisDashboard_17
 
 Analyzed hospital performance data, focusing on financial trends, patient discharge metrics, and Data Quality improvement.
 Technologies Used: SQL, Power BI, Tableau, Excel Key Contributions: Conducted financial performance analysis and SLA adherence monitoring. Used data visualization tools to track hospital capacity and revenue trends. Ensured data quality and governance compliance.
+# Project Details 
+https://drive.google.com/drive/folders/1ydH3R1v0zDVR7TpYK3FLDbqk4IK6phvA?usp=sharing
+
 <h1 align="center">Hi 👋, I'm Boguda Devendranath</h1>
 <h3 align="center">Aspiring Data Analyst from India</h3>
 
