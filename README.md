@@ -13,8 +13,8 @@ SQL, Power BI, Tableau, Excel
 - In this project we analyzed healthcare operations and financial performance, focusing on metrics like patient discharge, hospital capacity, and revenue trends.
 - A drastic decline in patient volume and revenue from suggests possible operational issues, data discrepancies, or policy changes. Key insights highlight significant revenue disparities among hospital types and 
   underutilization of resources.
-- In this project I used Excel, Power BI, Tableau, and MySQL for data extraction, cleaning, visualization, and trend analysis.
-- 
+- I used Excel, Power BI, Tableau, and MySQL for data extraction, cleaning, visualization, and trend analysis in this project.
+  
 ## Recommendations :
 - Improving data quality 
 - Boosting outpatient services 
