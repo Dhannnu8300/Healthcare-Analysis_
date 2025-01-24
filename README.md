@@ -1,8 +1,7 @@
 # Healthcare-Analysis_
 ![Recording 2025-01-25 001119](https://github.com/user-attachments/assets/a576cb9b-1542-423c-a884-40ae3563b07f)
 
-![AsxcWI3j_400x400](https://github.com/user-attachments/assets/94af50f4-a784-4879-8509-b5aec7878d9a)
-  https://public.tableau.com/views/HealthcareAnalysisDashboard_17377353228310/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Tableau Public : https://public.tableau.com/views/HealthcareAnalysisDashboard_17377353228310/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Analyzed hospital performance data, focusing on financial trends, patient discharge metrics, and Data Quality improvement.
 Technologies Used: SQL, Power BI, Tableau, Excel Key Contributions: Conducted financial performance analysis and SLA adherence monitoring. Used data visualization tools to track hospital capacity and revenue trends. Ensured data quality and governance compliance.
