@@ -16,4 +16,6 @@ SQL, Power BI, Tableau, Excel
 - In this project I used Excel, Power BI, Tableau, and MySQL for data extraction, cleaning, visualization, and trend analysis.
 - 
 ## Recommendations :
-Improving data quality, boosting outpatient services, and monitoring financial performance using detailed metrics
+- Improving data quality 
+- Boosting outpatient services 
+- Monitoring financial performance using detailed metrics
