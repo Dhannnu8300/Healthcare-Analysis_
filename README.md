@@ -1,4 +1,6 @@
 # Healthcare-Analysis_
+![Recording 2025-01-25 001119](https://github.com/user-attachments/assets/a576cb9b-1542-423c-a884-40ae3563b07f)
+
 Analyzed hospital performance data, focusing on financial trends, patient discharge metrics, and Data Quality improvement.
 Technologies Used: SQL, Power BI, Tableau, Excel Key Contributions: Conducted financial performance analysis and SLA adherence monitoring. Used data visualization tools to track hospital capacity and revenue trends. Ensured data quality and governance compliance.
 <h1 align="center">Hi 👋, I'm Boguda Devendranath</h1>
@@ -7,7 +9,7 @@ Technologies Used: SQL, Power BI, Tableau, Excel Key Contributions: Conducted fi
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhannnu8300&label=Profile%20views&color=0e75b6&style=flat" alt="dhannnu8300" /> </p>
 
 - 🔭 I worked on **Healthcare Analysis**
-![Uploading Recording 2025-01-25 001119.gif…]()
+
 
 - 🌱 Certified Course **Data Analysis**
 
