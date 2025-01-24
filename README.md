@@ -7,6 +7,7 @@ Technologies Used: SQL, Power BI, Tableau, Excel Key Contributions: Conducted fi
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhannnu8300&label=Profile%20views&color=0e75b6&style=flat" alt="dhannnu8300" /> </p>
 
 - 🔭 I worked on **Healthcare Analysis**
+![Uploading Recording 2025-01-25 001119.gif…]()
 
 - 🌱 Certified Course **Data Analysis**
 
