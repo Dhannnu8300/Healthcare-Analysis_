@@ -19,3 +19,6 @@ SQL, Power BI, Tableau, Excel
 - Improving data quality 
 - Boosting outpatient services 
 - Monitoring financial performance using detailed metrics
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="boguda-devendranath" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/boguda-devendranath?trk=profile-badge">Boguda Devendranath</a></div>
+              
